@@ -4,46 +4,73 @@ Ce projet présente le CV de Komi Raphael KUAYI sous forme de page web moderne e
 
 ## Aperçu
 
-Le CV inclut :
-- Informations personnelles
+La page HTML affiche :
+- Informations personnelles et photo de profil
 - Profil personnel
-- Compétences professionnelles
+- Compétences
+- Formations et concours
 - Expériences professionnelles
+- Langues parlées
+- Centres d'intérêt
 
 ## Fichiers principaux
 
-- [cv pro.html](cv%20pro.html) : Page principale du CV
-- [cv pro.css](cv%20pro.css) : Feuille de style pour le design du CV
-- 2.jpg : Photo de profil
+- `index.html` : Page principale du CV
+- `cv pro.css` : Feuille de style pour le design du CV
+- `2.jpg` : Photo de profil
 
-## Aperçu rapide
+## Utilisation
 
-Ouvrez [cv pro.html](cv%20pro.html) dans votre navigateur pour voir le CV.
+Ouvrez le fichier `index.html` dans votre navigateur pour visualiser le CV.
 
 ## Structure du CV
 
 - **Nom** : Komi Raphael KUAYI
 - **Email** : raphaelkukora@gmail.com
-- **Contact** : +228 70695447
-- **Adresse** : Lomé-Togo
+- **Téléphone** : +228 70695447
+- **Adresse** : Lomé, Togo
 
 ### Profil personnel
 
-Étudiant en Comptabilité Gestion des Entreprises à ESA, entrepreneur et passionné par le développement web et la technologie.
+Étudiant en Comptabilité et Gestion des Entreprises à ESA, entrepreneur et passionné par le développement web et la technologie.
 
 ### Compétences
 
-- Développeur web
-- Chef projets
-- Expert comptable
-- WordPress
-- Responsive Design
+- Comptable
+- Pianiste
+- Commerçant
+- Développeur Web
+- Formateur
+
+### Formations et concours
+
+- 2025 : Formation en Développement Web chez Dramtech
+- 2024 : Formation en E-COMMERCE GENERALE chez DMYD Global Business
+- 2024 : Formation en conduite catégorie B Français
+- 2024 : Obtention BAC 2
+- 2021 : Finaliste English Clubs Festival
 
 ### Expériences professionnelles
 
-- **2024-2025** : Stage chez GESTO-SARL (Assistant comptable)
-- **2023-2024** : Stage chez LE NUMERIQUE (Développeur web)
-- **2022-2023** : Employé chez l'INFORMATIQUE (Secrétaire Général)
-- **2021-2022** : Employé chez COEUR VAILLANT (Aide Comptable)
+- 2025 : Stage chez Dramtech (Assistant comptable)
+- 2023-2024 : Stage chez LE NUMERIQUE (Développeur web)
+- 2022-2023 : Employé chez L'INFORMATIQUE (Secrétaire Général)
+- 2021-2022 : Employé chez COEUR VAILLANT (Aide Comptable)
 
-##
+### Langues
+
+- Français (courant)
+- Anglais (intermédiaire)
+- Mandarin-Chinois (intermédiaire)
+
+### Centres d'intérêt
+
+- Technologie
+- Entrepreneuriat
+- Musique
+- Lecture
+- Sport
+
+## Licence
+
+Ce projet est à usage personnel.
